@@ -29,15 +29,16 @@ Decorito is a full-stack web application where users can **buy and sell decorati
 
 ## 📸 Screenshots
 
-<img width="1886" height="914" alt="Screenshot 2026-04-26 171135" src="https://github.com/user-attachments/assets/501b2ad7-feec-41cd-8f83-42147486e3eb" />
+<img width="1870" height="905" alt="Screenshot 2026-04-27 222138" src="https://github.com/user-attachments/assets/f4f1fabc-3404-496d-9d6f-fca69ad6104a" />
 <br>
-<img width="1876" height="887" alt="Screenshot 2026-04-26 171149" src="https://github.com/user-attachments/assets/2c71e87e-6ad5-4531-9ab9-1bd06b1c9beb" />
+<img width="1879" height="816" alt="Screenshot 2026-04-27 222153" src="https://github.com/user-attachments/assets/c8b10e46-1521-4a52-a3ad-2399533d7828" />
 <br>
-<img width="1875" height="882" alt="Screenshot 2026-04-26 171250" src="https://github.com/user-attachments/assets/abe0fadb-9082-4cab-a618-bba5bdf2c0f5" />
+<img width="1865" height="899" alt="Screenshot 2026-04-27 222238" src="https://github.com/user-attachments/assets/1e708c2c-384d-4888-aed3-97b432a80679" />
 <br>
-<img width="1855" height="865" alt="Screenshot 2026-04-26 171305" src="https://github.com/user-attachments/assets/24c72391-83c3-40e1-abf9-b86196e10aa9" />
+<img width="1847" height="905" alt="Screenshot 2026-04-27 222259" src="https://github.com/user-attachments/assets/e188de00-7502-40d1-8ba5-277d7dac8ac7" />
 <br>
-<img width="1891" height="879" alt="Screenshot 2026-04-26 171417" src="https://github.com/user-attachments/assets/21344a86-ed80-472b-bbe0-b2d879951987" />
+<img width="1846" height="900" alt="Screenshot 2026-04-27 222328" src="https://github.com/user-attachments/assets/33baf001-139f-4a81-b9f2-285be47698ec" />
+
 
 
 
